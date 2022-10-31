@@ -1,0 +1,24 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task2.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vika18473/ITOMYCH.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vika18473/ITOMYCH/issues"
+  },
+  "homepage": "https://github.com/vika18473/ITOMYCH#readme",
+  "dependencies": {
+    "process": "^0.11.10",
+    "readline-promise": "^1.0.5"
+  }
+}
