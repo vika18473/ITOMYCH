@@ -67,4 +67,3 @@ class Square extends Rectangle {
   }
   
   
-  export {Square, Rectangle, Triangle, Circle, Ellipse};
