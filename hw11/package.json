@@ -1,0 +1,16 @@
+{
+  "name": "hw11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task.js",
+  "scripts": {
+    "build": "tsc",
+    "start-ts": "ts-node task.ts",
+    "start": "node ./build/task.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
